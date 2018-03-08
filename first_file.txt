@@ -1,1 +1,2 @@
 The first file has been changed.
+This is a new line.
